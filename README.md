@@ -1,4 +1,3 @@
 # Examples of my work
 
-pro Matouše
-pro Matěje z Flowcutter
+pro Matouše a pro Matěje z Flowcutter
